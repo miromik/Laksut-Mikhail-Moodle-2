@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c408809c-4338-41f1-9d4e-89042dc27374" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/PythonProject1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonProject1.iml" afterDir="false" />
+    <list default="true" id="c408809c-4338-41f1-9d4e-89042dc27374" name="Changes" comment="läksy">
+      <change afterPath="$PROJECT_DIR$/Läksy 2.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Läksy 2.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Läksy 2.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Läksy 2.5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,14 +51,25 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.2.executor": "Run",
+    "Python.Läksy 2.1.executor": "Run",
+    "Python.Läksy 2.3.executor": "Run",
+    "Python.Läksy 2.4.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Misha/PycharmProjects/PythonProject1",
+    "node.js.detected.package.jshint": "true",
+    "node.js.selected.package.jshint": "",
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Misha\PycharmProjects\PythonProject1" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -71,14 +84,30 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1787048505570</updated>
-      <workItem from="1787048506559" duration="1239000" />
+      <workItem from="1787048506559" duration="4435000" />
     </task>
+    <task id="LOCAL-00001" summary="läksy">
+      <option name="closed" value="true" />
+      <created>1787049887257</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1787049887257</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="läksy" />
+    <option name="LAST_COMMIT_MESSAGE" value="läksy" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PythonProject1$Läksy_2_3.coverage" NAME="Läksy 2.3 Coverage Results" MODIFIED="1787050726877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject1$Läksy_2_1.coverage" NAME="Läksy 2.1 Coverage Results" MODIFIED="1787050341040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject1$2.coverage" NAME="2 Coverage Results" MODIFIED="1787048997620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject1$Läksy_2_4.coverage" NAME="Läksy 2.4 Coverage Results" MODIFIED="1787052916626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
